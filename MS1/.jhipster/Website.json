@@ -1,0 +1,29 @@
+{
+  "annotations": {
+    "changelogDate": "20241218191014"
+  },
+  "clientRootFolder": "ms1",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "url",
+      "fieldType": "String",
+      "fieldValidateRules": []
+    },
+    {
+      "fieldName": "ownerEmail",
+      "fieldType": "String"
+    }
+  ],
+  "microserviceName": "ms1",
+  "name": "Website",
+  "pagination": "no",
+  "readOnly": true,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "no"
+}
